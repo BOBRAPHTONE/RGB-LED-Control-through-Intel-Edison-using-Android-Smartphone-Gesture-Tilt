@@ -21,15 +21,5 @@ By tilting the phone around Y-axis (Roll), control the color variations of an RG
 The above two application packages are Edison specific. To install and run the program, please follow this link.
 
 ## Credits
-On Edison, the program was written by [Kiran Hegde](http://github.com/kiranmadansar) (Email: kiranmadansar@gmail.com)  
-
-
-
-
- 
-
-
-
-
-
+On Edison, the program was written by [Kiran Hegde](http://github.com/kiranmadansar) (Email: kiranmadansar@gmail.com)
 
