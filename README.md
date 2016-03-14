@@ -1,4 +1,4 @@
-# RGB LED Control on Intel Edison using Android Smartphone Gesture (Tilt)
+# RGB LED Control through Intel Edison using Android Smartphone Gesture (Tilt)
 Controlling an RGB LED through Intel Edison using Android smartphone gesture (Tilt)
 
 The idea is to introduce smartphone with Intel Edison to trigger/control an event using sensors on smartphone. Most Android-powered devices have built-in sensors that measure motion, orientation, and various environmental conditions. These sensors are capable of providing raw data with high precision and accuracy.
