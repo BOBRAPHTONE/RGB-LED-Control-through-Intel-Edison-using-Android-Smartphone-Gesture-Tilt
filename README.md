@@ -18,7 +18,7 @@ By tilting the phone around Y-axis (Roll), control the color variations of an RG
 * Bluetooth-SPP Python wrapper
 * PyBluez
 
-The above two application packages are Edison specific. To install and run the program, please follow this link.
+The above two application packages are Edison specific. To install and run the program, please follow [this link](https://github.com/kiranmadansar/RGB-LED-control-using-Android-Smartphone).
 
 ## Credits
 On Edison, the program was written by [Kiran Hegde](http://github.com/kiranmadansar) (Email: kiranmadansar@gmail.com)
