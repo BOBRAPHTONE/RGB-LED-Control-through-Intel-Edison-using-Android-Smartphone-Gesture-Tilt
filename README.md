@@ -1,5 +1,5 @@
 # RGB LED Control through Intel Edison using Android Smartphone Gesture (Tilt)
-Controlling an RGB LED through Intel Edison using Android smartphone gesture (Tilt)
+Controlling an RGB LED through Intel Edison using Android smartphone gesture (Tilt) and collects the _app usage statistics_ (Ex: how many times the user checks the list of Bluetooth devices, number of successful connections, etc..) and posts it to [Google Analytics](https://www.google.com/analytics/)
 
 The idea is to introduce smartphone with Intel Edison to trigger/control an event using sensors on smartphone. Most Android-powered devices have built-in sensors that measure motion, orientation, and various environmental conditions. These sensors are capable of providing raw data with high precision and accuracy.
 
@@ -15,6 +15,12 @@ By tilting the phone around Y-axis (Roll), control the color variations of an RG
 * [220 Ohm Resistor - 3](http://www.amazon.com/E-Projects-Resistors-Watt-220R-Pieces/dp/B00B5LNEF6)
 
 ## Software
+-> On Android:
+
+  Build the above project (BTRGBControl) using Android Studio and upload the generated apk to your smartphone
+  
+-> On Edison:  
+
 * Bluetooth-SPP Python wrapper
 * PyBluez
 
