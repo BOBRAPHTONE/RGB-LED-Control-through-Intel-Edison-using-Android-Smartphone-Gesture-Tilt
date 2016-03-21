@@ -7,8 +7,8 @@ By tilting the phone around Y-axis (Roll), control the color variations of an RG
 
 ## Setup
 <p align="left">
-<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/led.jpg" alt="rgbled" width="300"   />
-<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/setup.jpg" alt="setup" width="300" align="right"/>
+<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/led.jpg" alt="rgbled" width="400"   />
+<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/setup.jpg" alt="setup" width="450" align="right"/>
 </p>
 
 
