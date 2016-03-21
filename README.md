@@ -3,10 +3,12 @@ Controlling an RGB LED through Intel Edison using Android smartphone gesture (Ti
 
 The idea is to introduce smartphone with Intel Edison to trigger/control an event using sensors on smartphone. Most Android-powered devices have built-in sensors that measure motion, orientation, and various environmental conditions. These sensors are capable of providing raw data with high precision and accuracy.
 
+By tilting the phone around Y-axis (Roll), control the color variations of an RGB LED which is connected to Edison.
+
 ## Setup
 <p align="left">
-<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/led.jpg" alt="rgbled" width="400"   />
-<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/led.jpg" alt="rgbled" width="420" align="right" />
+<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/led.jpg" alt="rgbled" width="300"   />
+<img src="https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt/blob/master/Images/setup.jpg" alt="setup" width="300" align="right"/>
 </p>
 
 
