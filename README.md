@@ -27,11 +27,11 @@ By tilting the phone around Y-axis (Roll), control the color variations of an RG
 * [220 Ohm Resistor - 3](http://www.amazon.com/E-Projects-Resistors-Watt-220R-Pieces/dp/B00B5LNEF6)
 
 ## Software
--> On Android:
+--> On Android:
 
   Build the above project (BTRGBControl) using Android Studio and upload the generated apk to your smartphone
   
--> On Edison:  
+--> On Edison:  
 
 * Bluetooth-SPP Python wrapper
 * PyBluez
